@@ -59,7 +59,23 @@ Vue-based web project.
 
 <tr>
 
-<td colspan="2" align="center">
+<td width="50%" align="center">
+
+### 🧩 Tugas 2 Vue UT
+
+**Vue.js • JavaScript**
+
+Vue-based web project.
+
+<br>
+
+<a href="https://github.com/Kristya3199/tugas2-vue-ut">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
 
 ### 📚 SITTA PRAKTIKK
 
