@@ -20,35 +20,63 @@
 
 ## 🚀 Featured Projects
 
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
 ### 🎯 Attendify
 
-> A project built with Dart.
+**Dart**
 
-<p align="left">
-  <a href="https://github.com/Kristya3199/attendify">
-    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Project for attendance management.
+
+<br>
+
+<a href="https://github.com/Kristya3199/attendify">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
 
 ### 💻 Tugas 3 Vue UT
 
-> A JavaScript and Vue-based project.
+**Vue.js • JavaScript**
 
-<p align="left">
-  <a href="https://github.com/Kristya3199/tugas3-vue-ut">
-    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Vue-based web project.
+
+<br>
+
+<a href="https://github.com/Kristya3199/tugas3-vue-ut">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
 
 ### 📚 SITTA PRAKTIKK
 
-> A web project built with HTML.
+**HTML • Web Development**
 
-<p align="left">
-  <a href="https://github.com/Kristya3199/SITTA-PRAKTIKK">
-    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Web-based project.
+
+<br>
+
+<a href="https://github.com/Kristya3199/SITTA-PRAKTIKK">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -69,7 +97,7 @@
 <p align="center">
 
 <a href="https://github.com/Kristya3199">
-  <img src="https://img.shields.io/badge/GitHub-Kristya3199-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Kristya3199-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
