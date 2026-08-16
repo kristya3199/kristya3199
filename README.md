@@ -20,12 +20,34 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🎯 Attendify
 
-<a href="https://github.com/Kristya3199?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+> A project built with Dart.
 
+<p align="left">
+  <a href="https://github.com/Kristya3199/attendify">
+    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 💻 Tugas 3 Vue UT
+
+> A JavaScript and Vue-based project.
+
+<p align="left">
+  <a href="https://github.com/Kristya3199/tugas3-vue-ut">
+    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 📚 SITTA PRAKTIKK
+
+> A web project built with HTML.
+
+<p align="left">
+  <a href="https://github.com/Kristya3199/SITTA-PRAKTIKK">
+    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
