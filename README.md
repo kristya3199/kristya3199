@@ -1,11 +1,16 @@
-<h1 align="center">👋 Hi, I'm Kristya</h1>
+<h1 align="center">
+  👋 Hi, I'm Kristya
+</h1>
 
 <p align="center">
   💻 Web Developer &nbsp;•&nbsp; 📊 Data Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Web+Developer;Data+Enthusiast;Always+Learning+%26+Building" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Always+Learning+%26+Building;Web+Developer;Data+Enthusiast"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -21,110 +26,227 @@
 ## 🟡 My Contribution Graph
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Kristya3199/Kristya3199/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Kristya3199/Kristya3199/output/pacman-contribution-graph.svg"
-    />
-    <img
-      alt="Pac-Man Contribution Graph"
-      src="https://raw.githubusercontent.com/Kristya3199/Kristya3199/output/pacman-contribution-graph.svg"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/kristya3199/kristya3199/output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table align="center">
+<p align="center">
+  <em>A collection of my recent work and side projects.</em>
+</p>
+
+<table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<!-- ================= ATTENDIFY ================= -->
 
-### 🎯 Attendify
+<td width="25%" valign="top">
 
-**Dart**
+<p align="center">
+  🎯
+</p>
 
-Project for attendance management.
+<h3 align="center">Attendify</h3>
 
-<br>
+<p align="center">
+  <b>Dart</b>
+</p>
 
-<a href="https://github.com/Kristya3199/attendify">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  Project for attendance management.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kristya3199/attendify">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<table width="100%">
+<tr>
+<td>
+
+<pre><code>pub
+
+sdk: ">=3.0.0 &lt;4.0.0"</code></pre>
 
 </td>
-
-<td width="50%" align="center">
-
-### 💻 Tugas 3 Vue UT
-
-**Vue.js • JavaScript**
-
-Vue-based web project.
-
-<br>
-
-<a href="https://github.com/Kristya3199/tugas3-vue-ut">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
 </tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🧩 Tugas 2 Vue UT
-
-**Vue.js • JavaScript**
-
-Vue-based web project.
-
-<br>
-
-<a href="https://github.com/Kristya3199/tugas2-vue-ut">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</table>
 
 </td>
 
-<td width="50%" align="center">
 
-### 📚 SITTA PRAKTIKK
+<!-- ================= TUGAS 3 VUE ================= -->
 
-**HTML • Web Development**
+<td width="25%" valign="top">
 
-Web-based project.
+<p align="center">
+  💻
+</p>
 
-<br>
+<h3 align="center">Tugas 3 Vue</h3>
 
-<a href="https://github.com/Kristya3199/SITTA-PRAKTIKK">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <b>Vue.js • JavaScript</b>
+</p>
+
+<p align="center">
+  Vue-based web project.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kristya3199">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<table width="100%">
+<tr>
+<td>
+
+<pre><code>package.json
+
+"vue": "^3.4.0"
+"vite": "^5.0.0"</code></pre>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<!-- ================= TUGAS 2 VUE ================= -->
+
+<td width="25%" valign="top">
+
+<p align="center">
+  🧩
+</p>
+
+<h3 align="center">Tugas 2 Vue</h3>
+
+<p align="center">
+  <b>Vue.js • JavaScript</b>
+</p>
+
+<p align="center">
+  Vue-based web project.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kristya3199">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<table width="100%">
+<tr>
+<td>
+
+<pre><code>package.json
+
+"vue": "^3.4.0"
+"vite": "^5.0.0"</code></pre>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<!-- ================= SITTA ================= -->
+
+<td width="25%" valign="top">
+
+<p align="center">
+  📊
+</p>
+
+<h3 align="center">SITTA PRAKTIKK</h3>
+
+<p align="center">
+  <b>HTML • Web Development</b>
+</p>
+
+<p align="center">
+  Web-based project.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kristya3199">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<table width="100%">
+<tr>
+<td>
+
+<pre><code>index.html
+
+&lt;html&gt;
+  ...&lt;/html&gt;</code></pre>
+
+</td>
+</tr>
+</table>
 
 </td>
 
 </tr>
 </table>
 
+<p align="center">
+  ✨ <b>Check out my repositories for more!</b> ✨
+</p>
+
 ---
 
 ## 💻 What I Work With
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
 
-`HTML` `CSS` `JavaScript` `Vue.js` `Laravel` `PHP`
-
-`C++` `R` `Git` `GitHub` `VS Code`
-
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -132,11 +254,11 @@ Web-based project.
 ## 🌐 Find Me
 
 <p align="center">
-
-<a href="https://github.com/Kristya3199">
-<img src="https://img.shields.io/badge/GitHub-Kristya3199-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://github.com/kristya3199">
+    <img
+      src="https://img.shields.io/badge/GitHub-KRISTYA3199-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
 </p>
 
 ---
