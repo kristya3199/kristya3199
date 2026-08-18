@@ -76,7 +76,7 @@
 <tr>
 <td>
 
-<pre><code>pub
+<pre><code>pubspec.yaml
 
 sdk: ">=3.0.0 &lt;4.0.0"</code></pre>
 
@@ -86,23 +86,22 @@ sdk: ">=3.0.0 &lt;4.0.0"</code></pre>
 
 </td>
 
-
-<!-- ================= TUGAS 3 VUE ================= -->
+<!-- ================= STUDENT MANAGEMENT DASHBOARD ================= -->
 
 <td width="25%" valign="top">
 
 <p align="center">
-  💻
+  🎓
 </p>
 
-<h3 align="center">Tugas 3 Vue</h3>
+<h3 align="center">Student Management Dashboard</h3>
 
 <p align="center">
   <b>Vue.js • JavaScript</b>
 </p>
 
 <p align="center">
-  Vue-based web project.
+  Dashboard for managing student data and information.
 </p>
 
 <p align="center">
@@ -120,10 +119,12 @@ sdk: ">=3.0.0 &lt;4.0.0"</code></pre>
 <tr>
 <td>
 
-<pre><code>package.json
+<pre><code>Student Dashboard
 
-"vue": "^3.4.0"
-"vite": "^5.0.0"</code></pre>
+Students
+Classes
+Grades
+Attendance</code></pre>
 
 </td>
 </tr>
@@ -131,23 +132,22 @@ sdk: ">=3.0.0 &lt;4.0.0"</code></pre>
 
 </td>
 
-
-<!-- ================= TUGAS 2 VUE ================= -->
+<!-- ================= PRODUCT MANAGEMENT SYSTEM ================= -->
 
 <td width="25%" valign="top">
 
 <p align="center">
-  🧩
+  🛒
 </p>
 
-<h3 align="center">Tugas 2 Vue</h3>
+<h3 align="center">Product Management System</h3>
 
 <p align="center">
   <b>Vue.js • JavaScript</b>
 </p>
 
 <p align="center">
-  Vue-based web project.
+  Web application for managing products and inventory.
 </p>
 
 <p align="center">
@@ -165,10 +165,12 @@ sdk: ">=3.0.0 &lt;4.0.0"</code></pre>
 <tr>
 <td>
 
-<pre><code>package.json
+<pre><code>Product System
 
-"vue": "^3.4.0"
-"vite": "^5.0.0"</code></pre>
+Products
+Categories
+Stock
+Inventory</code></pre>
 
 </td>
 </tr>
@@ -176,23 +178,22 @@ sdk: ">=3.0.0 &lt;4.0.0"</code></pre>
 
 </td>
 
-
-<!-- ================= SITTA ================= -->
+<!-- ================= ACADEMIC RESOURCE MANAGEMENT ================= -->
 
 <td width="25%" valign="top">
 
 <p align="center">
-  📊
+  📚
 </p>
 
-<h3 align="center">SITTA PRAKTIKK</h3>
+<h3 align="center">Academic Resource Management</h3>
 
 <p align="center">
   <b>HTML • Web Development</b>
 </p>
 
 <p align="center">
-  Web-based project.
+  Web-based system for managing academic resources.
 </p>
 
 <p align="center">
@@ -210,10 +211,12 @@ sdk: ">=3.0.0 &lt;4.0.0"</code></pre>
 <tr>
 <td>
 
-<pre><code>index.html
+<pre><code>Academic Resources
 
-&lt;html&gt;
-  ...&lt;/html&gt;</code></pre>
+Materials
+Inventory
+Orders
+Tracking</code></pre>
 
 </td>
 </tr>
