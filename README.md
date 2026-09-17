@@ -1,45 +1,25 @@
-<div align="center">
+👋 Hi, I'm Kristya
 
-# 👋 Hi, I'm Kristya
+💻 Web Developer • 📊 Data Enthusiast
 
-### 💻 Web Developer &nbsp;•&nbsp; 📊 Data Enthusiast
+Always Learning & Building
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Always+Learning+%26+Building;Web+Developer;Data+Enthusiast;Turning+Ideas+Into+Projects" />
+────────────────────────
 
-</div>
+🛠️ Tech Stack
 
----
+[ HTML ][ CSS ][ JS ][ Vue ][ Laravel ][ PHP ]
+[ C++ ][ R ][ Git ][ GitHub ][ VS Code ]
 
-## 🖥️ PROFILE SCAN
+────────────────────────
 
-<div align="center">
+🟡 My Contribution Graph
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    PROFILE SCAN :: ONLINE                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   ██████╗ ██████╗  ███████╗████████╗██╗   ██╗ █████╗       ║
-║   ██╔══██╗██╔══██╗ ██╔════╝╚══██╔══╝╚██╗ ██╔╝██╔══██╗      ║
-║   ██████╔╝██████╔╝ █████╗     ██║    ╚████╔╝ ███████║      ║
-║   ██╔═══╝ ██╔══██╗ ██╔══╝     ██║     ╚██╔╝  ██╔══██║      ║
-║   ██║     ██║  ██║ ███████╗   ██║      ██║   ██║  ██║      ║
-║   ╚═╝     ╚═╝  ╚═╝ ╚══════╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝      ║
-║                                                              ║
-║   USER        : Kristya                                      ║
-║   USERNAME    : kristya3199                                  ║
-║   ROLE        : Web Developer                                ║
-║   INTEREST    : Data Enthusiast                              ║
-║   STATUS      : Learning & Building                          ║
-║                                                              ║
-║   ─────────────────────────────────────────────────────────  ║
-║                                                              ║
-║   LANGUAGES   : HTML • CSS • JavaScript • PHP • C++ • R     ║
-║   FRAMEWORKS  : Vue.js • Laravel                             ║
-║   TOOLS       : Git • GitHub • VS Code                       ║
-║                                                              ║
-║   ─────────────────────────────────────────────────────────  ║
-║                                                              ║
-║   SYSTEM      : ████████████████████████████  ONLINE        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+[ contribution graph ]
+
+────────────────────────
+
+🚀 Featured Projects
+
+Attendify | Student Management |
+Product Management | Academic Resource
