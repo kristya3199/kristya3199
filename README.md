@@ -139,4 +139,19 @@ Tracking</code></pre>
 
 ---
 
+## ☁️ Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>☁️ Skylume</h3>
+      <p>A weather forecast app for Jakarta.</p>
+      <p><b>Ionic · Angular · Open-Meteo API</b></p>
+      <a href="https://github.com/kristya3199/skylume">
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="View Skylume Project"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">✨ <i>Keep building. Keep learning. Keep growing.</i> ✨</p>
