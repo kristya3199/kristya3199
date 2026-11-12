@@ -102,7 +102,44 @@ Tracking</code></pre>
 </td>
 
 </tr>
-</table>
+
+<tr>
+<td width="25%" valign="top">
+<p align="center">💰</p>
+<h3 align="center">Crypto App</h3>
+<p align="center"><b>Flutter • Dart</b></p>
+<p align="center">Mobile cryptocurrency app using CoinLore API.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+<p align="center">
+<a href="https://github.com/kristya3199/crypto_app">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+<pre><code>Crypto App
+Rank
+Name
+Symbol
+Price USD</code></pre>
+</td>
+
+<td width="25%" valign="top">
+<p align="center">☁️</p>
+<h3 align="center">Skylume</h3>
+<p align="center">A weather forecast app for Jakarta.</p>
+<p align="center"><b>Ionic · Angular · Open-Meteo API</b></p>
+<p align="center">
+<a href="https://github.com/kristya3199/skylume">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+</tr>
+
+
+
 
 <p align="center">✨ <b>Check out my repositories for more!</b> ✨</p>
 
@@ -137,21 +174,10 @@ Tracking</code></pre>
   </a>
 </p>
 
----
 
-## ☁️ Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>☁️ Skylume</h3>
-      <p>A weather forecast app for Jakarta.</p>
-      <p><b>Ionic · Angular · Open-Meteo API</b></p>
-      <a href="https://github.com/kristya3199/skylume">
-        <img src="https://img.shields.io/badge/VIEW%20PROJECT-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="View Skylume Project"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
+
+
 
 <p align="center">✨ <i>Keep building. Keep learning. Keep growing.</i> ✨</p>
